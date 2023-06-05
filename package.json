@@ -1,0 +1,22 @@
+{
+  "name": "cocoapods-code",
+  "version": "1.0.0",
+  "description": "作为一名iOS开发，一定会使用到`CocoaPods`。但是寻遍全网，都没发现对官方文档的翻译(请原谅在下的渣渣英语及搜索能力)。故想自己翻译一下官方文档，方便自己和大家日后查阅。",
+  "main": "index.js",
+  "scripts": {
+    "serve": "gitbook serve",
+    "build": "gitbook build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suxiaoyao/cocoapods-code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suxiaoyao/cocoapods-code/issues"
+  },
+  "homepage": "https://github.com/suxiaoyao/cocoapods-code#readme"
+}
